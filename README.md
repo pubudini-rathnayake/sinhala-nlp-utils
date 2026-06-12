@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![NLP](https://img.shields.io/badge/NLP-Sinhala-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 A lightweight, dependency-free Python toolkit for **Sinhala Natural Language Processing**.

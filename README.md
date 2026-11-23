@@ -1,4 +1,4 @@
-# 🇱🇰 sinhala-nlp-utils
+# LK sinhala-nlp-utils
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![NLP](https://img.shields.io/badge/NLP-Sinhala-orange)

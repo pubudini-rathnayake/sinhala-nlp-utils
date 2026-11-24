@@ -20,7 +20,7 @@ Supports mixed Sinhala/English text — built for real-world Sri Lankan data.
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sinhala-nlp-utils.git
+git clone https://github.com/pubudini-rathnayake/sinhala-nlp-utils.git
 cd sinhala-nlp-utils
 pip install -e .
 ```
